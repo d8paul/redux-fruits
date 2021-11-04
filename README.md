@@ -1,2 +1,2 @@
-# redux-react-typescript-fruitguy-example
-Created with CodeSandbox
+# redux-react-typescript
+Created to start a redux tyoescrpt aplication
